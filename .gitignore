@@ -1,0 +1,18 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+
+# ML
+__pycache__/
+rag/.venv/
+rag/.env
+rag/index/
+rag/install.log
+
+.kotlin/
+*.env
+.env
+*.jks
+*.keystore
